@@ -7,7 +7,7 @@
 ## Python para ciência de dados
 
 
-   * Desafios Iniciais Py
+   * [Desafios Iniciais Py](https://github.com/Giuseppe31-s/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/main/Python%20para%20ci%C3%AAncia%20de%20dados/Desafios_Iniciais_Py_Unimed_BH.ipynb)
    * Desafio - Análise de dados
    * Desafios Intermediários Py
    * Descomplicando a criação de pacotes de processamento de imagens em Python
