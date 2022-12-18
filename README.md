@@ -12,3 +12,5 @@
    * [Desafios Intermediários Py](https://github.com/Giuseppe31-s/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/a41a32c905c6a593446c037f1c2fd228b7d44ee4/Python%20para%20ci%C3%AAncia%20de%20dados/Desafios_Intermedi%C3%A1rios_Py_Unimed_BH.ipynb)
    * [Desafio - Análise de dados com Python e Pandas](https://github.com/Giuseppe31-s/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/9765e82d68b548a925e426d9e9b306fb324fddd8/Python%20para%20ci%C3%AAncia%20de%20dados/An%C3%A1lise_Descritiva.ipynb)
    * [Desafio - Criando modelos com Python e Machine Learning para prever a o futuro atráves das séries temporais](https://github.com/Giuseppe31-s/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/70ff7e430b4dc98f2e15d1f6ae3f8647cbd8ff95/Python%20para%20ci%C3%AAncia%20de%20dados/Time_series_certo.ipynb)
+
+## Banco de Dados SQL e NoSQL
