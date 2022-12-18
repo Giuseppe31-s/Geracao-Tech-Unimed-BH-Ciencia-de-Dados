@@ -14,3 +14,11 @@
    * [Desafio - Criando modelos com Python e Machine Learning para prever a o futuro atráves das séries temporais](https://github.com/Giuseppe31-s/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/blob/70ff7e430b4dc98f2e15d1f6ae3f8647cbd8ff95/Python%20para%20ci%C3%AAncia%20de%20dados/Time_series_certo.ipynb)
 
 ## Banco de Dados SQL e NoSQL
+
+  * Desafio - Projeto Conceitual de Banco de Dados – E-COMMERCE
+
+  * Desafio - Projeto Conceitual de Banco de Dados - Oficina Mecânica
+
+  * Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce
+  * 
+  * Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce Refinado
