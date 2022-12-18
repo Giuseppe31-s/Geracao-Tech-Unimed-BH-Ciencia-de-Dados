@@ -20,5 +20,5 @@
   * Desafio - Projeto Conceitual de Banco de Dados - Oficina Mecânica
 
   * Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce
-  * 
+  
   * Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce Refinado
