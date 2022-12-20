@@ -76,7 +76,7 @@ CREATE TABLE productstorage (
 );
 ```
 
-### Criando  tabela de fornecedor 
+#### Criando  tabela de fornecedor 
 
 ```
 CREATE TABLE supplier (
