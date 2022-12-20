@@ -20,7 +20,7 @@ Refinar o diagrama apresentado acrescentando os seguintes pontos:
 #### Criação de schema
 
 ```
-CREATE DATABASE if not exist ecommerce;
+CREATE DATABASE if not exists ecommerce;
 USE ecommerce;
 ```
 
