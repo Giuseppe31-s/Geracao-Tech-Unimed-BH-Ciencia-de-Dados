@@ -1,1 +1,0 @@
-# Projeto E-commerce SQL
