@@ -11,5 +11,5 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
     Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
     Entrega – Possui status e código de rastreio;
 
-![image](https://user-images.githubusercontent.com/67710232/201937844-1ec85b51-3708-4eb2-ac8a-ef232d16abad.png)
+![image](https://raw.githubusercontent.com/Giuseppe31-s/Geracao-Tech-Unimed-BH-Ciencia-de-Dados/main/Banco%20de%20Dados%20SQL%20e%20NoSQL/E-commerce/E-commerce.png)
 
