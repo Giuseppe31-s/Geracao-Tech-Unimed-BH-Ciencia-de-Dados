@@ -22,3 +22,10 @@
   * Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce
   
   * Desafio - Construindo seu Primeiro Projeto Lógico de Banco de Dados - E-Commerce Refinado
+  
+## Imersão Cloud Computer
+
+
+## Machine Learning
+
+* Treinamento de Redes Neurais com Transfer Learning
