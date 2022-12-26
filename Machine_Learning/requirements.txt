@@ -3,3 +3,4 @@ Keras
 numpy
 streamlit
 Pillow
+urllib
