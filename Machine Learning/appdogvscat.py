@@ -1,8 +1,9 @@
-import tensorflow
+
 import streamlit as st
 from PIL import Image
 from keras.models import load_model
 import numpy as np
+
 st.set_page_config(page_title='dogs vs cats', page_icon='🐶')
 st.title("Classificador de Gatos ou Cachorros")
 
